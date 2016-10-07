@@ -3378,7 +3378,7 @@
 				D221A0BB169C9E5F00537ABF /* App Store Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "App Store Release";
+			defaultConfigurationName = Debug;
 		};
 		D221A0BC169C9E5F00537ABF /* Build configuration list for PBXNativeTarget "Signal" */ = {
 			isa = XCConfigurationList;
@@ -3387,7 +3387,7 @@
 				D221A0BE169C9E5F00537ABF /* App Store Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "App Store Release";
+			defaultConfigurationName = Debug;
 		};
 		D221A0BF169C9E5F00537ABF /* Build configuration list for PBXNativeTarget "SignalTests" */ = {
 			isa = XCConfigurationList;
@@ -3396,7 +3396,7 @@
 				D221A0C1169C9E5F00537ABF /* App Store Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "App Store Release";
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
